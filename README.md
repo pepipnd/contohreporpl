@@ -1,2 +1,2 @@
 # contohreporpl
-mengupload suatu file ke github lain waktu PTS semester 2 tahun 2021
+mengupload suatu file ke github lain waktu PTS kelas 12 semester 2 
